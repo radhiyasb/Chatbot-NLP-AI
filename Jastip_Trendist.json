@@ -1,0 +1,188 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "hallo",
+        "hai",
+        "halo",
+        "hei",
+        "hi",
+        "hy",
+        "pagi",
+        "morning",
+        "siang",
+        "afternoon",
+        "sore",
+        "malam",
+        "bro",
+        "sis",
+        "kawan"
+      ],
+      "responses": [
+        "Hai! Jastip Trendist disini. Kami siap membantu Anda. Kalo mau tau produk apa aja yang bisa jastip silahkan mengetik 'item'. Untuk mengetahui cara memesan silahkan mengetik 'mekanisme'",
+        "Halo! Jastip Trendist siap melayani, mau titip barang apa? Kalo mau tau produk apa aja yang bisa jastip silahkan mengetik 'item'. Untuk mengetahui cara memesan silahkan mengetik 'mekanisme'",
+        "Helo! Ini Jastip Trendist. Lagi kepo tentang barang apa aja yang bisa titip menggunakan jasa kami ya? Kalo mau tau produk apa aja yang bisa jastip silahkan mengetik 'item'. Untuk mengetahui cara memesan silahkan mengetik 'mekanisme'"
+      ]
+    },
+    {
+      "tag": "pengenalan_jastip_trendist",
+      "patterns": [
+        "Jastip Trendist",
+        "Trendist",
+        "Apa itu Jastip Trendist?"
+      ],
+      "responses": [
+        "Hallo! selamat datang di Jastip Trendist.  Kalian bingung cari baju kekinian tapi sold out terus?? Nah ada kami solusinya di Jastip Trendist, disini kami menyediakan jasa titip barang yang kalian cari. Dan jasa titip barang ini sangat trust dan barang 100% original dan berkualitas Loh!! Dan juga pas di kantong untuk harga. Jasa titip barang ini juga menerima segala bentuk barang dari baju segala macam model baju hingga brand terkenal pun ada disini Loh! Dan juga menerima pengiriman ke seluruh Indonesia. Untuk itu berkunjung ke aplikasi kami ya! Selamat berbelanja!"
+      ]
+    },
+    {
+      "tag": "item_jastip",
+      "patterns": [
+        "Ada item apa saja?",
+        "Item apa saja yang tersedia?",
+        "Di Trendist ada apa saja?",
+        "Item"
+      ],
+      "responses": [
+        "Item jastip di Trendist ada berbagai macam kaos unisex mulai dari kaos O-Neck, kaos V-Neck, kaos Y-Neck, kaos Polo dan kaos Turtleneck kak, mulai dari lengan pendek hingga lengan panjang",
+        "Item yang tersedia saat ini berbagai macam kaos unisex mulai dari kaos O-Neck, kaos V-Neck, kaos Y-Neck, kaos Polo dan kaos Turtleneck kak, mulai dari lengan pendek hingga lengan panjang"
+      ]
+    },
+    {
+      "tag": "jenis_kaos",
+      "patterns": [
+        "Jenis kaos apa saja yang tersedia?",
+        "Kaos",
+        "Jenis Kaos?"
+      ],
+      "responses": [
+        "Kaos O-Neck, Kaos V-Neck, Kaos Y-Neck, Kaos Polo, dan Kaos Turtleneck"
+      ]
+    },
+    {
+      "tag": "penjelasan_kaos_o-neck",
+      "patterns": [
+        "Kaos O-Neck"
+      ],
+      "responses": [
+        "Kaos O-Neck adalah kaos yang memiliki bentuk leher seperti huruf O atau bulat"
+      ]
+    },
+    {
+      "tag": "penjelasan_kaos_v-neck",
+      "patterns": [
+        "Kaos V-Neck"
+      ],
+      "responses": [
+        "Kaos V-Neck adalah kaos dengan bentuk huruf V pada bagian lehernya"
+      ]
+    },
+    {
+      "tag": "penjelasan_kaos_y-neck",
+      "patterns": [
+        "Kaos Y-Neck"
+      ],
+      "responses": [
+        "Kaos Y-Neck adalah kaos dengan bentuk huruf Y dan dilengkapi dengan beberapa kancing di garis bagian bawahnya. Jenis kaos ini merupakan pilihan yang tepat untuk kamu yang ingin berpergian ke acara semiformal, namun ingin tetap menggunakan kaos."
+      ]
+    },
+    {
+      "tag": "penjelasan_kaos_polo",
+      "patterns": [
+        "Kaos Polo"
+      ],
+      "responses": [
+        "Kaos Polo adalah kaos yang dilengkapi dengan tampilan kerah pada bagian lehernya sehingga terlihat sopan dan cocok digunakan di acara semiformal."
+      ]
+    },
+    {
+      "tag": "penjelasan_kaos_turtleneck",
+      "patterns": [
+        "Kaos Turtleneck"
+      ],
+      "responses": [
+        "Kaos Turtleneck adalah model kaos dengan kerah yang panjang ke atas dan mampu menutup bagian lehermu."
+      ]
+    },
+    {
+      "tag": "syarat_dan_ketentuan",
+      "patterns": [
+        "Apa syarat dan ketentuannya?",
+        "Syaratnya apa ya?",
+        "Syarat dan ketentuannya?",
+        "Syarat dan ketentuan"
+      ],
+      "responses": [
+        "Syarat & Ketentuan Jastip Trendist: Jastip Trendist memiliki kewenangan untuk membatalkan pemesanan baik sementara maupun permanen apabila didapati adanya tindakan kecurangan dalam bertransaksi dan untuk kepentingan pribadi Pengguna, Pengguna dilarang untuk menciptakan dan/atau menggunakan alat dan/atau fitur otomatis yang bertujuan untuk melakukan manipulasi pada system Jastip Trendist, termasuk namun tidak terbatas pada (i) manipulasi data Pengguna, (ii) melakukan perambahan (crawling, spider, scrape), (iii) transaksi titip beli otomatis, (iv) otomasi promosi, Pengguna dengan ini menyatakan bahwa Jastip Trendist tidak bertanggung jawab atas kerugian atau kerusakan yang timbul dari penyalahgunaan akun Pengguna, Pihak Jastip Trendist akan mengenakan biaya fee dalam setiap transaksi yang terjadi dan selalu transparan disebutkan dalam detail rincian transaksi, Harga yang tertera didalam website Jastip Trendist atau harga barang per unit adalah dalam mata uang Rupiah sesuai peraturan perundang-undangan di negara Indonesia, kecuali kedepannya ada kebijaksanaan khusus oleh pemerintah indonesia dan akan dicantumkan dalam mata uang/currency negara lain. Notes: Syarat & ketentuan mungkin di ubah dan/atau diperbaharui dari waktu ke waktu tanpa pemberitahuan sebelumnya. Jastip Trendist menyarankan agar anda membaca secara seksama dan memeriksa halaman Syarat & Ketentuan ini dari waktu ke waktu untuk mengetahui perubahan apapun. Dengan tetap mengakses dan menggunakan layanan Jastip Trendist, maka Pengguna dianggap menyetujui perubahan-perubahan dalam Syarat & Ketentuan."
+      ]
+    },
+    {
+      "tag": "mekanisme",
+      "patterns": [
+        "Mekanisme",
+        "Bagaimana cara jastip di trendist?",
+        "Mau jastip",
+        "Saya mau jastip di trendist",
+        "Gimana sih caranya jastip melalui trendist?",
+        "Cara jastip"
+      ],
+      "responses": [
+        "Pertama-tama kalian bisa mengetik 'item' untuk mengetahui item yang bisa dipesan. Anda juga dapat mengunjungi instagram kami untuk melihat gambar produk yang bisa dipesan. Apabila telah mengetahui apa saja merk dan item yang dipesan, Anda dapat mengetik pesanan Anda dengan format 'pesan (kode item) ukuran (...) sebanyak (jumlah)'. Setelah itu, Anda akan diberikan pilihan metode pembayaran dan metode pengiriman yang bisa Anda pilih."
+      ]
+    },
+    {
+      "tag": "metode_pembayaran",
+      "patterns": [
+        "Metode pembayarannya bagaimana?",
+        "Gimana cara bayarnya?",
+        "Cara bayar?",
+        "Metode pembayaran",
+        "Pembayaran",
+        "Bayar"
+      ],
+      "responses": [
+        "Metode pembayaran yang disediakan oleh Jastip Trendist bisa melalui: Kartu kredit dan debit, Transfer Bank, E-wallet, QR Code,Ritel Tunai,Cash on Delivery (COD)"
+      ]   
+    },
+    {
+      "tag": "metode_pengiriman",
+      "patterns": [
+        "Bisa kirim pakai ekspedisi apa?",
+        "Metode pengiriman",
+        "Pengiriman",
+        "Ekspedisi"
+      ],
+      "responses": [
+        "Item jastip akan dikirim oleh Trendist sesuai dengan ekspedisi pilihan kakak. Ekspedisi yang kami gunakan antara lain Pos Indonesia, J&T, JNE dan Indah Cargo. Kakak dapat memilih ekspedisi sesuai dengan kebutuhan."
+      ]
+    },
+    {
+      "tag": "terima_kasih",
+      "patterns": [
+        "Terima Kasih",
+        "Thank You",
+        "makasih kak",
+        "mksh",
+        "thanks"],
+      "responses":[
+       "Terima Kasih Kembali ^^"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Keluar",
+        "Selesai",
+        "Quit",
+        "Sampai Jumpa",
+        "Bye",
+        "Goodbye",
+        "Dadah"
+      ],
+      "responses": [
+        "Bye Bye See You The Next Order"
+      ]
+    }
+  ]
+}
